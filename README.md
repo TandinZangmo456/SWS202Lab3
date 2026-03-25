@@ -1,6 +1,6 @@
-**LAB 03**
+# **LAB 03**
 
-**Exploiting FTP, SSH, Telnet, and SMB Services**
+## **Exploiting FTP, SSH, Telnet, and SMB Services**
 
 *Penetration Testing Lab Report*
 
